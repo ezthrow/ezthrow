@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-- https://github.com/vrifmus/henki
-
 <!--
-**vrfms/vrfms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ezthrow/ezthrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
